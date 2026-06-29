@@ -37,6 +37,6 @@ The primary goal of this project was to build an interactive Power BI dashboard 
 The dashboard indicates a business with strong revenue performance, a loyal core customer demographic, and several high-performing product categories and shopping locations. However, opportunities exist to increase repeat purchases, improve the performance of weaker product categories, and better understand seasonal sales fluctuations. 
 
 ### Screenshot
-* [Dashboard Overview](https://github.com/Opsy1/Customer-Shopping-Analytics-Dashboard/blob/main/Customer%20Shopping%20Dashboard%20Snapshot.png)
+* [Dashboard Overview](https://github.com/Opsy1/Customer-Shopping-Analytics-Dashboard/blob/main/Customer%20Shopping%20Dashboard%20Snapshot.png),
   
 * [Full Project View](https://github.com/Opsy1/Customer-Shopping-Analytics-Dashboard/blob/main/Customer%20Shopping%20Dashboard.pdf)
